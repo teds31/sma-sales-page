@@ -17,7 +17,7 @@
     <p class="text-xl font-bold text-gray-300 uppercase">
       A comprehensive mental performance program designed exclusively for goalies who want to be more consistent, stop more pucks and dominate between the pipes.
     </p>
-    <a href="https://app.stonewallmind.academy/courses/9805" class="bg-white text-black font-bold py-4 px-10 rounded shadow-lg hover:bg-gray-200 transition-all transform hover:scale-105 cursor-pointer inline-block text-center">
+    <a href="https://stonewall-mind-academy.forento.app/user/signup" class="bg-white text-black font-bold py-4 px-10 rounded shadow-lg hover:bg-gray-200 transition-all transform hover:scale-105 cursor-pointer inline-block text-center">
       GET STARTED
     </a>
   </div>

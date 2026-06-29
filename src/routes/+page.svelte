@@ -123,7 +123,7 @@
           </ul>
         </div>
 
-        <a href="https://app.stonewallmind.academy/courses/9805" class="w-full bg-black text-white font-bold py-4 px-8 rounded-lg shadow-lg hover:bg-gray-800 transition-all transform hover:scale-105 cursor-pointer inline-block text-center">
+        <a href="https://stonewall-mind-academy.forento.app/user/signup" class="w-full bg-black text-white font-bold py-4 px-8 rounded-lg shadow-lg hover:bg-gray-800 transition-all transform hover:scale-105 cursor-pointer inline-block text-center">
           GET STARTED
         </a>
       </div>
@@ -250,7 +250,7 @@
       <p class="text-base md:text-lg font-bold">
         Easy to use. Takes only minutes a day. Results that last a lifetime.
       </p>
-      <a href="https://app.stonewallmind.academy/courses/9805" class="mt-8 bg-white text-black font-bold py-3 md:py-4 px-8 md:px-12 text-sm md:text-base rounded-lg shadow-lg hover:bg-gray-200 transition-all transform hover:scale-105 cursor-pointer inline-block">
+      <a href="https://stonewall-mind-academy.forento.app/user/signup" class="mt-8 bg-white text-black font-bold py-3 md:py-4 px-8 md:px-12 text-sm md:text-base rounded-lg shadow-lg hover:bg-gray-200 transition-all transform hover:scale-105 cursor-pointer inline-block">
         GET STARTED
       </a>
     </div>

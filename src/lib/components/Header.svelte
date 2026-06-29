@@ -13,7 +13,7 @@
 
       <!-- Buttons -->
       <div class="flex gap-2 md:gap-4 items-center">
-        <a href="https://app.stonewallmind.academy/courses/9805" class="bg-white text-black font-bold py-2 px-3 md:px-6 text-sm md:text-base rounded-lg shadow-md border-2 border-black hover:bg-gray-100 transition-all transform hover:scale-105 active:scale-95 cursor-pointer">
+        <a href="https://stonewall-mind-academy.forento.app/user/signup" class="bg-white text-black font-bold py-2 px-3 md:px-6 text-sm md:text-base rounded-lg shadow-md border-2 border-black hover:bg-gray-100 transition-all transform hover:scale-105 active:scale-95 cursor-pointer">
           JOIN NOW
         </a>
         <a href="https://stonewall-mind-academy.forento.app/user/signin" class="bg-black text-white font-bold py-2 px-3 md:px-6 text-sm md:text-base rounded-lg shadow-md hover:bg-gray-800 transition-all transform hover:scale-105 active:scale-95 cursor-pointer">
